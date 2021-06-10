@@ -1,8 +1,12 @@
 .header{
-	background-image: url('../img/top-banner.jpg');
-	background-attachment: fixed;
-	background-size: cover;
-	background-position: center;
-	height: 50vh;
-	position: relative;
+    background-image: url('../img/top-banner.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+    position: relative;
 }
+.d-flex {
+    margin: 8px 0;
+}
+
