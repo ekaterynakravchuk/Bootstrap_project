@@ -6,7 +6,8 @@
     height: 50vh;
     position: relative;
 }
-.d-flex {
+nav form {
+    margin-block-end: 0;
     margin: 8px 0;
 }
 
