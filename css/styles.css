@@ -10,4 +10,6 @@ nav form {
     margin-block-end: 0;
     margin: 8px 0;
 }
-
+.container {
+    max-width: 1140px;
+}
